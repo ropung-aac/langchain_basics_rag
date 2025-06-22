@@ -180,7 +180,6 @@ data/
 datasets/
 *.csv
 *.json
-*.txt
 *.pdf
 *.docx
 embeddings/
@@ -200,4 +199,4 @@ ehthumbs.db
 Thumbs.db
 
 # Custom additions for your project
-# (아래에 프로젝트별 추가 파일들을 넣으세요)
+# (아래에 프로젝트별 추가 파일들을 넣으세요)``
