@@ -198,7 +198,7 @@ with tab2:
             return img_str
         
         # 우창윤 선생님 RAG 분석 버튼
-        if st.button("🩺 우창윤 선생님 RAG 분석 받기", type="primary", use_container_width=True):
+        if st.button("🩺 우창윤 선생님 음식 상담받기", type="primary", use_container_width=True):
             with st.spinner("우창윤 선생님이 이미지를 분석하고 관련 의료 지식을 찾고 있어요... 🤖📚"):
                 try:
                     # 1단계: 음식명 인식
