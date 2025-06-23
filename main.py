@@ -162,7 +162,7 @@ with tab1:
                 with st.container():
                     st.markdown("---")
                     st.markdown(f"""
-                    <div style='background-color: white; padding: 20px; border-radius: 10px; border-left: 4px solid #4CAF50; box-shadow: 0 2px 4px rgba(0,0,0,0.1);'>
+                    <div style='background-color: black; padding: 20px; border-radius: 10px; border-left: 4px solid #4CAF50; box-shadow: 0 2px 4px rgba(0,0,0,0.1);'>
                         <div style='display: flex; align-items: center; margin-bottom: 10px;'>
                             <span style='font-size: 20px; margin-right: 8px;'>👨‍⚕️</span>
                             <strong style='color: black !important;'>우창윤 선생님</strong>
