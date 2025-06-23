@@ -111,7 +111,7 @@ def create_woo_style_consultation_prompt(concern, relevant_knowledge):
 
 # Streamlit 앱 시작
 st.set_page_config(
-    page_title="우창윤 내분비내과 의사",
+    page_title="WIM 닥터프렌즈 우창윤 AI",
     page_icon="👨‍⚕️",
     layout="wide"
 )
