@@ -267,7 +267,7 @@ with tab2:
                     
                     # 최종 결과 표시
                     st.success("RAG 분석 완료! 🎯")
-                    st.write("**💬 우창윤 선생님의 RAG 기반 친근한 피드백:**")
+                    st.write("**💬 우창윤 선생님의 친근한 피드백:**")
                     
                     # 답변을 예쁘게 표시
                     with st.container():
